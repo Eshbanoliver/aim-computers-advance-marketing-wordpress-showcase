@@ -19,7 +19,6 @@ Custom WordPress website developed for AIM Computers (Advance Marketing), a crea
 - Portfolio / "A Collection of Our Work" with case studies (CNC LED Boards, Steel Letters, Glowsign Boards)
 - Testimonials section with real client quotes praising quality, variety, expertise, and service
 - FAQ section covering custom LED boards, computer products, repair, production time, warranty, customization
-- Contact section with phone (+91 98291 14565), email (advancemarketingudr@gmail.com), and inquiry form
 - Responsive design optimized for visual signage/digital products (mobile-first)
 - SEO-friendly for local Udaipur LED/signage/computer searches
 
